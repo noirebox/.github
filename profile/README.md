@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/noirebox/.github/main/assets/banner.jpeg" alt="NoireBox" width="100%">
+</div>
+
 # ⬛ NoireBox
 
 **The flight data recorder for AI agents.**
